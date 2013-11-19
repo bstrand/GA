@@ -5,7 +5,7 @@
 
 ### Summary 
 
-I intend to develop a model to predict whether a given customer of a subscription software service will renew based upon account attributes and usage patterns. This prediction is intended to inform the business' understanding to inform retention efforts for existing customers and identify customer classes with preferable long term earning potential to inform first sales efforts.  
+I intend to develop a model to predict whether a given customer of a subscription software service will renew based upon account attributes and usage patterns. This prediction is intended to inform the business' understanding with an eye toward customer retention and identifying customer classes with preferable long term earning potential to inform first sales efforts.  
 
 ### Data Sets
 A customer's profile will be composed by extracting features from the following data sets:-
