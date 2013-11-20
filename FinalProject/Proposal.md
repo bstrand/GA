@@ -1,3 +1,7 @@
+Comments: I think this looks great. The results have well-defined business value and your appraoch seems sound.
+My only question involves the scope of the work outlined here; this may be more work than is possible given the timeframe,
+so I would focus on making sure an MVP can be ready for presentation. Other than that, looks great!
+
 **GA Data Science Final Project Proposal**  
 **Brant Strand, SF Section 2**
 
